@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ingresosena-1a19b": {
+      "hosting": {
+        "IngresoSena": [
+          "ingresosena-1a19b"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ingresosena-1a19b"
+  }
+}
